@@ -6,6 +6,8 @@
 
     Accepts a predicate function to test for emission which will terminate the observable.
 
+## Factory functions
+
 * [ofLatestFrom](https://stackblitz.com/edit/ts-rxjs-userland-oflatestfrom?file=index.ts)
 
 
