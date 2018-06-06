@@ -1,6 +1,6 @@
 ## Operators
 
-* [some](https://stackblitz.com/edit/ts-rxjs-some-userland?file=index.ts)
+* [some](https://stackblitz.com/edit/ts-rxjs-userland-some?file=index.ts)
 
     A counterpart of `every`.
 
